@@ -17,9 +17,8 @@
 
 ### 🦥 About me
 
-- 🔭 Currently working on Plant disease classification
-- 🌱 Learning Deep learning
-- ⚡ Fun fact: a bit slow, does not stop me
+- 🔭 Currently working on DL plant diseases classification
+- 🌱 Learning deep learning and RAG for now
 
 ### 🛠️ Tech stack
 
@@ -46,19 +45,20 @@
 
 ### 📌 Featured projects
 
-<!-- Swap in your best repos. These cards update automatically. -->
+<!-- Built during Ambition Flow. If a repo name below differs from yours, change it in BOTH the link and the card URL. -->
 <p align="center">
-  <a href="https://github.com/Sloth-io-meh/[repo-1]"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sloth-io-meh&repo=[repo-1]&theme=tokyonight&hide_border=true" alt="repo-1" /></a>
-  <a href="https://github.com/Sloth-io-meh/[repo-2]"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sloth-io-meh&repo=[repo-2]&theme=tokyonight&hide_border=true" alt="repo-2" /></a>
+  <a href="https://github.com/Sloth-io-meh/video-game-sales"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sloth-io-meh&repo=video-game-sales&theme=tokyonight&hide_border=true" alt="Video Game Sales" /></a>
+  <a href="https://github.com/Sloth-io-meh/plant-classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sloth-io-meh&repo=plant-classification&theme=tokyonight&hide_border=true" alt="Plant Classification" /></a>
 </p>
+
+| Project | What it does | Built with |
+|---|---|---|
+| 🎮 **[Video Game Sales](https://github.com/Sloth-io-meh/video-game-sales)** | Explores decades of global video game sales: which platforms, genres, publishers and regions drive the market, and how that changed over time. | Python · pandas · matplotlib / seaborn |
+| 🌿 **[Plant Classification](https://github.com/Sloth-io-meh/plant-classification)** | Trains a machine learning model to identify plant species from their features or images. | Python · scikit-learn / TensorFlow |
+
+<sub>Both projects were built as part of the **Ambition Flow** program.</sub>
 
 ### 🤝 Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/[your-handle]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/[your-handle]"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:[you@example.com]"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
 
 ---
 
