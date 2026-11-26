@@ -1,11 +1,10 @@
 <!-- Profile README for github.com/Sloth-io-meh -->
-<!-- Replace anything in [brackets] and delete sections you don't want. -->
 
 <h1 align="center">Hey, I'm Sloth 🦥</h1>
-<h3 align="center">[Your role, e.g. "Developer who ships slowly but surely"]</h3>
+<h3 align="center">Aspiring ML engineer · Deep learning & data science</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=800&color=7EE787&center=true&vCenter=true&width=520&lines=Slow+is+smooth%2C+smooth+is+fast.;Building+things+one+commit+at+a+time.;Powered+by+coffee+and+naps." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=800&color=7EE787&center=true&vCenter=true&width=560&lines=Slow+is+smooth%2C+smooth+is+fast.;Training+models+one+epoch+at+a+time.;Currently+exploring+deep+learning+%26+RAG." alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -17,20 +16,31 @@
 
 ### 🦥 About me
 
-- 🔭 Currently working on DL plant diseases classification
-- 🌱 Learning deep learning and RAG for now
+- 🔭 Currently working on **deep learning for plant disease classification**
+- 🌱 Learning **deep learning** and **RAG (Retrieval-Augmented Generation)**
+- 🎓 Built my first data projects with **Ambition Flow**
 
 ### 🛠️ Tech stack
 
-<!-- Keep the ones you use and delete the rest. More badges: https://shields.io / https://simpleicons.org -->
+**Languages & tools**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Data & ML**
+
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+**Currently exploring**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### 📊 GitHub stats
 
@@ -45,7 +55,7 @@
 
 ### 📌 Featured projects
 
-<!-- Built during Ambition Flow. If a repo name below differs from yours, change it in BOTH the link and the card URL. -->
+<!-- If a repo name below differs from yours, change it in BOTH the link and the card URL. -->
 <p align="center">
   <a href="https://github.com/Sloth-io-meh/video-game-sales"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sloth-io-meh&repo=video-game-sales&theme=tokyonight&hide_border=true" alt="Video Game Sales" /></a>
   <a href="https://github.com/Sloth-io-meh/plant-classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sloth-io-meh&repo=plant-classification&theme=tokyonight&hide_border=true" alt="Plant Classification" /></a>
@@ -53,12 +63,10 @@
 
 | Project | What it does | Built with |
 |---|---|---|
-| 🎮 **[Video Game Sales](https://github.com/Sloth-io-meh/video-game-sales)** | Explores decades of global video game sales: which platforms, genres, publishers and regions drive the market, and how that changed over time. | Python · pandas · matplotlib / seaborn |
-| 🌿 **[Plant Classification](https://github.com/Sloth-io-meh/plant-classification)** | Trains a machine learning model to identify plant species from their features or images. | Python · scikit-learn / TensorFlow |
+| 🎮 **[Video Game Sales](https://github.com/Sloth-io-meh/video-game-sales)** | Explores decades of global video game sales: which platforms, genres, publishers and regions drive the market, and how that changed over time. | Python · pandas · Matplotlib |
+| 🌿 **[Plant Classification](https://github.com/Sloth-io-meh/plant-classification)** | Classifies plants with machine learning, and is the starting point for my current deep learning work on plant disease detection. | Python · scikit-learn |
 
 <sub>Both projects were built as part of the **Ambition Flow** program.</sub>
-
-### 🤝 Connect
 
 ---
 
