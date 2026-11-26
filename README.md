@@ -57,8 +57,8 @@
 
 <!-- If a repo name below differs from yours, change it in BOTH the link and the card URL. -->
 <p align="center">
-  <a href="https://github.com/Sloth-io-meh/video-game-sales"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sloth-io-meh&repo=video-game-sales&theme=tokyonight&hide_border=true" alt="Video Game Sales" /></a>
-  <a href="https://github.com/Sloth-io-meh/plant-classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sloth-io-meh&repo=plant-classification&theme=tokyonight&hide_border=true" alt="Plant Classification" /></a>
+  <a href="https://github.com/Sloth-io-meh/ML-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sloth-io-meh&repo=video-game-sales&theme=tokyonight&hide_border=true" alt="Video Game Sales" /></a>
+  <a href="https://github.com/AmbitiousFlowDev/plant-diseases-classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sloth-io-meh&repo=plant-classification&theme=tokyonight&hide_border=true" alt="Plant Classification" /></a>
 </p>
 
 | Project | What it does | Built with |
