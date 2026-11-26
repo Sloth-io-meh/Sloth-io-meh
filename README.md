@@ -17,10 +17,9 @@
 
 ### 🦥 About me
 
-- 🔭 Currently working on **[project name]**
-- 🌱 Learning **[thing you're learning]**
-- 💬 Ask me about **[your strongest topics]**
-- ⚡ Fun fact: [something about you]
+- 🔭 Currently working on Plant disease classification
+- 🌱 Learning Deep learning
+- ⚡ Fun fact: a bit slow, does not stop me
 
 ### 🛠️ Tech stack
 
