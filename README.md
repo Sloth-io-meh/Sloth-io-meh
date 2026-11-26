@@ -55,16 +55,15 @@
 
 ### 📌 Featured projects
 
-<!-- If a repo name below differs from yours, change it in BOTH the link and the card URL. -->
 <p align="center">
-  <a href="https://github.com/Sloth-io-meh/ML-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sloth-io-meh&repo=video-game-sales&theme=tokyonight&hide_border=true" alt="Video Game Sales" /></a>
-  <a href="https://github.com/AmbitiousFlowDev/plant-diseases-classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sloth-io-meh&repo=plant-classification&theme=tokyonight&hide_border=true" alt="Plant Classification" /></a>
+  <a href="https://github.com/Sloth-io-meh/ML-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sloth-io-meh&repo=ML-project&theme=tokyonight&hide_border=true" alt="Video Game Sales" /></a>
+  <a href="https://github.com/AmbitiousFlowDev/plant-diseases-classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AmbitiousFlowDev&repo=plant-diseases-classification&theme=tokyonight&hide_border=true" alt="Plant Diseases Classification" /></a>
 </p>
 
 | Project | What it does | Built with |
 |---|---|---|
-| 🎮 **[Video Game Sales](https://github.com/Sloth-io-meh/video-game-sales)** | Explores decades of global video game sales: which platforms, genres, publishers and regions drive the market, and how that changed over time. | Python · pandas · Matplotlib |
-| 🌿 **[Plant Classification](https://github.com/Sloth-io-meh/plant-classification)** | Classifies plants with machine learning, and is the starting point for my current deep learning work on plant disease detection. | Python · scikit-learn |
+| 🎮 **[Video Game Sales](https://github.com/Sloth-io-meh/ML-project)** | Explores decades of global video game sales: which platforms, genres, publishers and regions drive the market, and how that changed over time. | Python · pandas · Matplotlib |
+| 🌿 **[Plant Diseases Classification](https://github.com/AmbitiousFlowDev/plant-diseases-classification)** | Detects and classifies plant diseases with machine learning, helping spot sick crops early. | Python · deep learning |
 
 <sub>Both projects were built as part of the **Ambition Flow** program.</sub>
 
