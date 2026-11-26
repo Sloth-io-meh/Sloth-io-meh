@@ -56,7 +56,7 @@
 ### 📌 Featured projects
 
 <p align="center">
-  <a href="https://github.com/Sloth-io-meh/ML-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sloth-io-meh&repo=ML-project&theme=tokyonight&hide_border=true" alt="Video Game Sales" /></a>
+  <a href="https://github.com/Sloth-io-meh/ML_project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sloth-io-meh&repo=ML_project&theme=tokyonight&hide_border=true" alt="Video Game Sales" /></a>
   <a href="https://github.com/AmbitiousFlowDev/plant-diseases-classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AmbitiousFlowDev&repo=plant-diseases-classification&theme=tokyonight&hide_border=true" alt="Plant Diseases Classification" /></a>
 </p>
 
